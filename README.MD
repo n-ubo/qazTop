@@ -31,3 +31,5 @@ The usb toggle however is just friction fit.
 - some rubber stickers for the bottom, do what fits you best
 - some glue to securely mount the micro SD drive cable and USB port both on the left side.
 
+![measurement_details](https://github.com/Nuboctane/qazTop/blob/main/images/measurement_details.png "Measurements closed")
+![cable_details](https://github.com/Nuboctane/qazTop/blob/main/images/inside_details.png "Cable details")
