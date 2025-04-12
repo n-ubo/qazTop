@@ -1,6 +1,8 @@
 # qazTop 
 #### the qaz laptop
 
+![opened_view](https://github.com/Nuboctane/qazTop/blob/main/images/opened_view.png "Opened view")
+
 In here you will find the files used to build your own qazTop.
 These files are originally printed with SLA technology, but feel free to experiment with FDM.
 
@@ -28,3 +30,4 @@ The usb toggle however is just friction fit.
 ### other
 - some rubber stickers for the bottom, do what fits you best
 - some glue to securely mount the micro SD drive cable and USB port both on the left side.
+
